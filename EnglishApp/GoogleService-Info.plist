@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>931657271387-pmilnlcg27p7l9lh5274oqadkk6m2kqr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.931657271387-pmilnlcg27p7l9lh5274oqadkk6m2kqr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwMOXzH9uU-HKJ4DMrlXyD7X4EjsAODjI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>931657271387</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Sloth.EnglishApp</string>
+	<key>PROJECT_ID</key>
+	<string>nyaa-nyaa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nyaa-nyaa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:931657271387:ios:5ea27b3a559e4263</string>
+	<key>DATABASE_URL</key>
+	<string>https://nyaa-nyaa.firebaseio.com</string>
+</dict>
+</plist>
